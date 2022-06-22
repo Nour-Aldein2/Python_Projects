@@ -9,4 +9,6 @@ play against the computer.
 3- Password Generator: It asks for how hard you want it to be, then 
 generate one using the random module. 
 
+4- Hangman: A game that could be used in English lessons. The main idea is to guess a word letter by letter before the drawing of the hungman is completed. `hangman_word.py` has the list of words that `main.py` will choose from randomly, while `hangman_art.py` has the ascii art used in this game.
+
 
